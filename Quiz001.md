@@ -4,5 +4,11 @@
 
 ** Fig. 1** This is the solution to the Black box
 
-**Fig. 1** Shows my solution to the quiz001. The process to generate the outputs below are
+**Fig. 1** Shows my solution to the quiz001. The proseadure to generate
+the outputs are
 
+| input                        | output          |
+|------------------------------|-----------------|
+| international                | i11l            |
+| (cats) + (dogs) = (troubles) | (4) + (4) = (8) |
+|                              |                 |
