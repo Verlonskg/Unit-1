@@ -1,7 +1,5 @@
-Integer and float numbers
-  
-# Snakify Exercises
-## Chapter 1: Input, print and numbers
+
+# 2. Integer and float numbers
 
 ### Sum of three numbers
 ```.py
