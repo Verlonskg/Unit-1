@@ -2,8 +2,6 @@
 # 2. Integer and float numbers
 
 ### «Last digit of integer»
-![]()
-
 ```.py
 num = int(input())
 
