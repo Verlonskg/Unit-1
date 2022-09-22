@@ -18,7 +18,7 @@ I will to design and make a ———— for a client who is ———. The —�
 
 Justify the tools/structure of your solution
 
-The crypto I will be working with is Alto Coin
+The crypto I will be working with is Ape Coin
 
 ## Success Criteria
 1. The electronic ledger is a text-based software (Runs in the Terminal).
