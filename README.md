@@ -1,6 +1,6 @@
 # Crypto Wallet
 
-![](ApeCoin (1).gif)  
+![](ApeCoin (1).gif)
 <sub>Illustration for Glenn Harvey</sub>
 
 # Criteria A: Planning
