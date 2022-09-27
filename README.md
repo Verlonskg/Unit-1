@@ -38,8 +38,7 @@ The crypto I will be working with is Ape Coin
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 10min         | Sep 22                 | B         |
+| 1 | Create system diagram| To have a clear idea of the hardware and software requirements for the proposed solution | 10min | Sep 22 | B |
 | 2 | Flow diagram login  | created a flow diagram for the login system | 10min | Sep27 | B |
-|---|---------------------|---------------------------------------------|-------|-------|---|
 | 3 | Code and test login | coded and tested the login system           | 50min | Sep27 | C |
 | 4 |                     | test the login                              |       |       | D |
