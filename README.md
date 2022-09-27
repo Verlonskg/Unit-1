@@ -1,6 +1,6 @@
 # Crypto Wallet
 
-![](ApeCoin (1).gif)  
+![](ApeCoin_(1).gif)  
 ![](22ROOSE-master768.gif)  
 
 <sub>Illustration for Glenn Harvey</sub>
