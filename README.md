@@ -24,9 +24,9 @@ The crypto I will be working with is Ape Coin
 1. The electronic ledger is a text-based software (Runs in the Terminal).
 2. The electronic ledger display the basic description of the cyrptocurrency selected.
 3. The electronic ledger allows to enter, withdraw and record transactions.
-4.
-5.
-6.
+4. The electronic ledger
+5. The electronic ledger
+6. The electronic ledger
 
 # Criteria B: Design
 
@@ -39,4 +39,7 @@ The crypto I will be working with is Ape Coin
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
 | 1       | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 10min         | Sep 22                 | B         |
-
+| 2 | Flow diagram login  | created a flow diagram for the login system | 10min | Sep27 | B |
+|---|---------------------|---------------------------------------------|-------|-------|---|
+| 3 | Code and test login | coded and tested the login system           | 50min | Sep27 | C |
+| 4 |                     | test the login                              |       |       | D |
