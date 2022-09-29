@@ -6,7 +6,7 @@
 This is an multiline comment
 '''
 
-'''.py
+```.py
 nA = int(input("Plese enter a number"))
 nB = int(input("Plese enter a number"))
 print(f"You entered {nA} and {nB}")
@@ -22,3 +22,4 @@ if nA + nB == 20:
 	output = True
 
 print(f"The answer to the quiz 002 is {output}")
+```
