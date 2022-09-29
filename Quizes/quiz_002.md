@@ -1,12 +1,12 @@
 # Quiz002
 
-'''.py
 #Given two numbers A and B Output TRUE if one of them is 20
 
 '''
 This is an multiline comment
 '''
 
+'''.py
 nA = int(input("Plese enter a number"))
 nB = int(input("Plese enter a number"))
 print(f"You entered {nA} and {nB}")
